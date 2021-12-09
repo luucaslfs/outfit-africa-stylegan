@@ -1,3 +1,5 @@
+# OutfitAfrica - Um novo modelo StyleGAN2
+
 Projeto final da disciplina: 
 Criatividade Computacional
 	Centro de Informática(CIn) - UFPE
