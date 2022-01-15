@@ -36,7 +36,4 @@ Lucas Florencio de Sousa
 
 Rodrigo de Lima Oliveira
 
-Matheus Hopper Jansen Costa
-
-
 12/2021
